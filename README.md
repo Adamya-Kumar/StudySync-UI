@@ -4,7 +4,7 @@
 StudySync is a coding course selling website built to test and improve UI/UX design skills. This project focuses on creating a visually appealing and user-friendly interface.
 
 ### 🚀 Live Demo
-[Click here to visit StudySync](#) *(Update this link once deployed)*
+[Click here to visit StudySync](https://study-sync-ui-xi.vercel.app/) *(Update this link once deployed)*
 
 ### 🛠️ Technologies Used
 - **HTML5**  
