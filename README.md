@@ -15,7 +15,9 @@ StudySync is a coding course selling website built to test and improve UI/UX des
 - Gaining hands-on experience in frontend development  
 
 ### 📸 Project Preview
-![StudySync Preview](#) *(Replace `#` with your image link)*  
+[main page](https://github.com/user-attachments/assets/97cf8451-487e-4742-b8f5-0c873e5ec5e2)
+
+
 
 ### 📂 How to Use
 1. Clone the repository:  
